@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cash_register/static/css/main.0d0a6967.chunk.css",
+    "main.js": "/cash_register/static/js/main.831b382f.chunk.js",
+    "main.js.map": "/cash_register/static/js/main.831b382f.chunk.js.map",
+    "runtime-main.js": "/cash_register/static/js/runtime-main.d1dc8268.js",
+    "runtime-main.js.map": "/cash_register/static/js/runtime-main.d1dc8268.js.map",
+    "static/css/2.10111ff5.chunk.css": "/cash_register/static/css/2.10111ff5.chunk.css",
+    "static/js/2.75550abf.chunk.js": "/cash_register/static/js/2.75550abf.chunk.js",
+    "static/js/2.75550abf.chunk.js.map": "/cash_register/static/js/2.75550abf.chunk.js.map",
+    "index.html": "/cash_register/index.html",
+    "precache-manifest.7e0b7fdffb345d5042f11fa37bfa2032.js": "/cash_register/precache-manifest.7e0b7fdffb345d5042f11fa37bfa2032.js",
+    "service-worker.js": "/cash_register/service-worker.js",
+    "static/css/2.10111ff5.chunk.css.map": "/cash_register/static/css/2.10111ff5.chunk.css.map",
+    "static/css/main.0d0a6967.chunk.css.map": "/cash_register/static/css/main.0d0a6967.chunk.css.map",
+    "static/js/2.75550abf.chunk.js.LICENSE.txt": "/cash_register/static/js/2.75550abf.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/cash_register/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1dc8268.js",
+    "static/css/2.10111ff5.chunk.css",
+    "static/js/2.75550abf.chunk.js",
+    "static/css/main.0d0a6967.chunk.css",
+    "static/js/main.831b382f.chunk.js"
+  ]
+}
